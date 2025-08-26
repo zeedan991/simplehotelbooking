@@ -60,7 +60,7 @@ public class practical2 {
             System.out.print("Enter your name: ");
             String name = scanner.nextLine();
             rooms[floor - 1][room - 1] = name;
-            System.out.println("Room booked successfully.");
+            System.out.println("Room booked succesfully.");
         }
     }
 }
